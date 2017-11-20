@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "firebase serve -o $IP -p $PORT": "friendlychat-32e6b"
+  }
+}
